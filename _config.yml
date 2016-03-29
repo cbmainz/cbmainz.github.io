@@ -25,7 +25,7 @@ footer-links:
   instagram: cbmainz
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: RSS
   twitter: cbmainz
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -48,6 +48,9 @@ url: http://cbmainz.github.io
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+
+timezone: Europe/Berlin
+encoding: utf-8
 
 #
 # !! You don't need to change any of the configuration flags below !!
